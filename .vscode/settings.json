@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "eslint.validate": ["javascript"],
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2
+}

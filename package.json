@@ -1,0 +1,11 @@
+{
+  "name": "atcoder",
+  "version": "1.0.0",
+  "description": "AtCoder Environment and Answer Sheet.",
+  "main": "index.js",
+  "scripts": {
+    "new": "cp -R template"
+  },
+  "author": "YopiNoji",
+  "license": "MIT"
+}
